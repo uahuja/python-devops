@@ -12,5 +12,5 @@ print(l[4:6]);
 l3.sort()   # First step we have to sort, and then print in next
 print(l3)
 
-l4 = l2 + ["uditi", "sumad"]
+l4 = l2 + ["uditi", "sumad"]   # Concatenation function
 print(l4)
