@@ -26,6 +26,7 @@ print(len(result))
 spaceText= "    My name is udit Ahuja"
 print(spaceText.strip());
 
+#IMPORTANT
 # split will create a list of all the words based on delimiter
 str = 'My name is Udit Ahuja'
 words = str.split(' ')
